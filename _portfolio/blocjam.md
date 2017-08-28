@@ -5,7 +5,7 @@ thumbnail-path: "img/bloc_jam.png"
 short-description: Bloc Jam is a website performs as a music player with various albums contained inside.
 
 ---
-{:.center} ![]({{ site.baseurl }}/img/bloc_jam.png)
+ ![]({{ site.baseurl }}/img/bloc_jam.png)
 
 Explanation
 
