@@ -7,7 +7,7 @@ short-description: Bloc Jam is a website performs as a music player with various
 ---
  ![]({{ site.baseurl }}/img/bloc_jam.png)
 
-Explanation
+<b>Explanation </b>
 
 This web application is designed to have music player user interfaces that allows users to traverse through different albums and songs inside of it. As user plays musics in album, they are allowed to use control nob on the bottom of the player to move between musics and utilize seekbars to control volume and move through the song.
 Problem
