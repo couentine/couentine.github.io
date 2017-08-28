@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.quentinguillaume.com" # the base hostname & protocol for your site
+url: "http://{username}.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -13,7 +13,7 @@ theme_settings:
      <h1>Witty & Hilarious Rails Developer</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, JavaScript.</p>
   header_text_feature_image:
-  footer_text: 
+  footer_text:
 
   # Icons
   rss: false
