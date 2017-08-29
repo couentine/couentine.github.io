@@ -18,7 +18,7 @@ Build a production quality SaaS app that allows users to create their own wikis.
 
 ![]({{ site.baseurl }}/img/Blocipedia-wiki.png)
 
-<h2>Solution
+<h2>Solution</h2>
 
 
 This was my first project that I built on my own. It was imperative to have a game plan before I started work. After planning and understanding exactly what the parameters required, I developed a plan of attack and began work. That plan of attack included many gems. Devise, figaro, pry, pundit, stripe, and redcarpet are just a few that were implemented to satisfy different required parameters.
