@@ -22,7 +22,8 @@ Build a production quality SaaS app that allows users to create their own wikis.
 
 
 This was my first project that I built on my own. It was imperative to have a game plan before I started work. After planning and understanding exactly what the parameters required, I developed a plan of attack and began work. That plan of attack included many gems. Devise, figaro, pry, pundit, stripe, and redcarpet are just a few that were implemented to satisfy different required parameters.
-Results
+
+<h2>Results</h2>
 
 I learned the value of quality gems and how they can be implemented to make tasks easier. I learned a great deal about scope and how it can be used to set limitations. One of the more challenging aspects of the project was developing a method for users to upgrade their account. This feature was solved with a gem called Stripe.
 
