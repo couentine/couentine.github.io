@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blocmarks
+thumbnail-path: ""
+short-description: Blocmarks is a social bookmarking application that allows users to email, manage and share bookmarked URLs.
+
+---
 Links:
 
 <p><a href="https://github.com/couentine/blocmarks">GitHub Repository</a></p>
