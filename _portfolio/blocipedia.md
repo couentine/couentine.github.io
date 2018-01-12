@@ -8,6 +8,9 @@ short-description: Build a production quality SaaS app that allows users to crea
 
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
+
+<p><a href="https://github.com/couentine/blocipedia">GitHub Repository</a></p>
+
 <h2>Explanation</h2>
 
 Blocipedia was the first of my student solo projects. Given a short list of parameters I was tasked with building an application that allows users to create their own wikis. Check it out here.
