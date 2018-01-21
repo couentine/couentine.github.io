@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Blocmarks
-thumbnail-path: ""
+thumbnail-path: "img/blocmarks.png"
 short-description: Blocmarks is a social bookmarking application that allows users to email, manage and share bookmarked URLs.
 
 ---
-Links:
+
 
 <p><a href="https://github.com/couentine/blocmarks">GitHub Repository</a></p>
-<p><a href="https://dry-refuge-43909.herokuapp.com/">Heroku</a></p>
+<p><a href="https://blooming-ridge-53490.herokuapp.com/">Heroku</a></p>
 
 Summary
 
