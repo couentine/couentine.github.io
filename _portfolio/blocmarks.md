@@ -7,7 +7,7 @@ short-description: Blocmarks is a social bookmarking application that allows use
 ---
 
 
-<p><a href="https://github.com/couentine/blocmarks">GitHub Repository</a></p>
+<p><a href="https://github.com/couentine/bookmaks">GitHub Repository</a></p>
 <p><a href="https://blooming-ridge-53490.herokuapp.com/">Heroku</a></p>
 
 Summary
