@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pictures Sharing
-thumbnail-path: ""
-short-description: Picture Sharing is a website performs where you can share pictures like Instagram.
+title: Arago
+thumbnail-path: "arago.png"
+short-description: Arago is a website performs where you can share pictures like Instagram.
 
 ---
 Links:
